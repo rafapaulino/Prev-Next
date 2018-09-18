@@ -1,0 +1,23 @@
+{
+  "name": "prev-next",
+  "homepage": "https://github.com/rafapaulino/prev-next",
+  "description": "Anterior e Próximo na página de posts",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "prev next"
+  ],
+  "authors": [
+    "Rafael Paulino"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#4.7.0"
+  }
+}
