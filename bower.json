@@ -18,6 +18,6 @@
     "tests"
   ],
   "dependencies": {
-    "font-awesome": "fontawesome#4.7.0"
+    "Pure-CSS3-Animated-Border": "https://github.com/code-fx/Pure-CSS3-Animated-Border.git"
   }
 }
